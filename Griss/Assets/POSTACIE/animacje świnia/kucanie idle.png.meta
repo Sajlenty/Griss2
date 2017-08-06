@@ -1,0 +1,336 @@
+fileFormatVersion: 2
+guid: 6a2d16d79a0a0e14f83e4145656bf8e1
+timeCreated: 1501804982
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: kucanie idle_0
+    21300002: kucanie idle_1
+    21300004: kucanie idle_2
+    21300006: kucanie idle_3
+    21300008: kucanie idle_4
+    21300010: kucanie idle_5
+    21300012: kucanie idle_6
+    21300014: kucanie idle_7
+    21300016: kucanie idle_8
+    21300018: kucanie idle_9
+    21300020: kucanie idle_10
+    21300022: kucanie idle_11
+    21300024: kucanie idle_12
+    21300026: kucanie idle_13
+    21300028: kucanie idle_14
+    21300030: kucanie idle_15
+    21300032: kucanie idle_16
+    21300034: kucanie idle_17
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 8192
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 8192
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: kucanie idle_0
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 264
+        width: 506
+        height: 451
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: kucanie idle_1
+      rect:
+        serializedVersion: 2
+        x: 1275
+        y: 269
+        width: 509
+        height: 446
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: kucanie idle_2
+      rect:
+        serializedVersion: 2
+        x: 2270
+        y: 271
+        width: 517
+        height: 441
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: kucanie idle_3
+      rect:
+        serializedVersion: 2
+        x: 3279
+        y: 267
+        width: 504
+        height: 445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: kucanie idle_4
+      rect:
+        serializedVersion: 2
+        x: 4275
+        y: 271
+        width: 507
+        height: 444
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: kucanie idle_5
+      rect:
+        serializedVersion: 2
+        x: 5276
+        y: 273
+        width: 511
+        height: 446
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: kucanie idle_6
+      rect:
+        serializedVersion: 2
+        x: 6275
+        y: 269
+        width: 515
+        height: 443
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: kucanie idle_7
+      rect:
+        serializedVersion: 2
+        x: 7275
+        y: 267
+        width: 513
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: kucanie idle_8
+      rect:
+        serializedVersion: 2
+        x: 8276
+        y: 269
+        width: 511
+        height: 446
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: kucanie idle_9
+      rect:
+        serializedVersion: 2
+        x: 9270
+        y: 269
+        width: 513
+        height: 443
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: kucanie idle_10
+      rect:
+        serializedVersion: 2
+        x: 10271
+        y: 271
+        width: 519
+        height: 444
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: kucanie idle_11
+      rect:
+        serializedVersion: 2
+        x: 11276
+        y: 267
+        width: 505
+        height: 443
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: kucanie idle_12
+      rect:
+        serializedVersion: 2
+        x: 12273
+        y: 267
+        width: 517
+        height: 443
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: kucanie idle_13
+      rect:
+        serializedVersion: 2
+        x: 13271
+        y: 269
+        width: 438
+        height: 454
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: kucanie idle_14
+      rect:
+        serializedVersion: 2
+        x: 14276
+        y: 271
+        width: 431
+        height: 448
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: kucanie idle_15
+      rect:
+        serializedVersion: 2
+        x: 15272
+        y: 269
+        width: 434
+        height: 452
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: kucanie idle_16
+      rect:
+        serializedVersion: 2
+        x: 16273
+        y: 271
+        width: 431
+        height: 452
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: kucanie idle_17
+      rect:
+        serializedVersion: 2
+        x: 17272
+        y: 273
+        width: 517
+        height: 442
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

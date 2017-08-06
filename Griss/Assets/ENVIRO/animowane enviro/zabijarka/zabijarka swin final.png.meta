@@ -1,0 +1,966 @@
+fileFormatVersion: 2
+guid: 16827ea734d9e1746857060ee145d531
+timeCreated: 1501953119
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: zabijarka swin final_0
+    21300002: zabijarka swin final_1
+    21300004: zabijarka swin final_2
+    21300006: zabijarka swin final_3
+    21300008: zabijarka swin final_4
+    21300010: zabijarka swin final_5
+    21300012: zabijarka swin final_6
+    21300014: zabijarka swin final_7
+    21300016: zabijarka swin final_8
+    21300018: zabijarka swin final_9
+    21300020: zabijarka swin final_10
+    21300022: zabijarka swin final_11
+    21300024: zabijarka swin final_12
+    21300026: zabijarka swin final_13
+    21300028: zabijarka swin final_14
+    21300030: zabijarka swin final_15
+    21300032: zabijarka swin final_16
+    21300034: zabijarka swin final_17
+    21300036: zabijarka swin final_18
+    21300038: zabijarka swin final_19
+    21300040: zabijarka swin final_20
+    21300042: zabijarka swin final_21
+    21300044: zabijarka swin final_22
+    21300046: zabijarka swin final_23
+    21300048: zabijarka swin final_24
+    21300050: zabijarka swin final_25
+    21300052: zabijarka swin final_26
+    21300054: zabijarka swin final_27
+    21300056: zabijarka swin final_28
+    21300058: zabijarka swin final_29
+    21300060: zabijarka swin final_30
+    21300062: zabijarka swin final_31
+    21300064: zabijarka swin final_32
+    21300066: zabijarka swin final_33
+    21300068: zabijarka swin final_34
+    21300070: zabijarka swin final_35
+    21300072: zabijarka swin final_36
+    21300074: zabijarka swin final_37
+    21300076: zabijarka swin final_38
+    21300078: zabijarka swin final_39
+    21300080: zabijarka swin final_40
+    21300082: zabijarka swin final_41
+    21300084: zabijarka swin final_42
+    21300086: zabijarka swin final_43
+    21300088: zabijarka swin final_44
+    21300090: zabijarka swin final_45
+    21300092: zabijarka swin final_46
+    21300094: zabijarka swin final_47
+    21300096: zabijarka swin final_48
+    21300098: zabijarka swin final_49
+    21300100: zabijarka swin final_50
+    21300102: zabijarka swin final_51
+    21300104: zabijarka swin final_52
+    21300106: zabijarka swin final_53
+    21300108: zabijarka swin final_54
+    21300110: zabijarka swin final_55
+    21300112: zabijarka swin final_56
+    21300114: zabijarka swin final_57
+    21300116: zabijarka swin final_58
+    21300118: zabijarka swin final_59
+    21300120: zabijarka swin final_60
+    21300122: zabijarka swin final_61
+    21300124: zabijarka swin final_62
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 8192
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 8192
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: zabijarka swin final_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1036
+        height: 1000
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zabijarka swin final_1
+      rect:
+        serializedVersion: 2
+        x: 1057
+        y: 0
+        width: 983
+        height: 1000
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zabijarka swin final_2
+      rect:
+        serializedVersion: 2
+        x: 2037
+        y: 0
+        width: 995
+        height: 1000
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zabijarka swin final_3
+      rect:
+        serializedVersion: 2
+        x: 3037
+        y: 0
+        width: 992
+        height: 1000
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zabijarka swin final_4
+      rect:
+        serializedVersion: 2
+        x: 4032
+        y: 0
+        width: 977
+        height: 1000
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zabijarka swin final_5
+      rect:
+        serializedVersion: 2
+        x: 5041
+        y: 0
+        width: 986
+        height: 1000
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zabijarka swin final_6
+      rect:
+        serializedVersion: 2
+        x: 6033
+        y: 0
+        width: 994
+        height: 1000
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zabijarka swin final_7
+      rect:
+        serializedVersion: 2
+        x: 7056
+        y: 0
+        width: 966
+        height: 1000
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zabijarka swin final_8
+      rect:
+        serializedVersion: 2
+        x: 8034
+        y: 0
+        width: 991
+        height: 1000
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zabijarka swin final_9
+      rect:
+        serializedVersion: 2
+        x: 9031
+        y: 0
+        width: 980
+        height: 1000
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zabijarka swin final_10
+      rect:
+        serializedVersion: 2
+        x: 10017
+        y: 0
+        width: 1006
+        height: 1000
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zabijarka swin final_11
+      rect:
+        serializedVersion: 2
+        x: 11026
+        y: 0
+        width: 1006
+        height: 1000
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zabijarka swin final_12
+      rect:
+        serializedVersion: 2
+        x: 12035
+        y: 0
+        width: 986
+        height: 1000
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zabijarka swin final_13
+      rect:
+        serializedVersion: 2
+        x: 13024
+        y: 0
+        width: 1006
+        height: 1000
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zabijarka swin final_14
+      rect:
+        serializedVersion: 2
+        x: 14033
+        y: 0
+        width: 988
+        height: 1000
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zabijarka swin final_15
+      rect:
+        serializedVersion: 2
+        x: 15022
+        y: 0
+        width: 1004
+        height: 1000
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zabijarka swin final_16
+      rect:
+        serializedVersion: 2
+        x: 16028
+        y: 0
+        width: 1014
+        height: 1000
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zabijarka swin final_17
+      rect:
+        serializedVersion: 2
+        x: 17046
+        y: 0
+        width: 978
+        height: 1000
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zabijarka swin final_18
+      rect:
+        serializedVersion: 2
+        x: 18028
+        y: 0
+        width: 990
+        height: 1000
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zabijarka swin final_19
+      rect:
+        serializedVersion: 2
+        x: 19021
+        y: 0
+        width: 1006
+        height: 1000
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zabijarka swin final_20
+      rect:
+        serializedVersion: 2
+        x: 20033
+        y: 0
+        width: 986
+        height: 1000
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zabijarka swin final_21
+      rect:
+        serializedVersion: 2
+        x: 21041
+        y: 0
+        width: 976
+        height: 1000
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zabijarka swin final_22
+      rect:
+        serializedVersion: 2
+        x: 22023
+        y: 0
+        width: 1004
+        height: 1000
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zabijarka swin final_23
+      rect:
+        serializedVersion: 2
+        x: 23031
+        y: 0
+        width: 1000
+        height: 1000
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zabijarka swin final_24
+      rect:
+        serializedVersion: 2
+        x: 24035
+        y: 0
+        width: 988
+        height: 1000
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zabijarka swin final_25
+      rect:
+        serializedVersion: 2
+        x: 25027
+        y: 0
+        width: 996
+        height: 1000
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zabijarka swin final_26
+      rect:
+        serializedVersion: 2
+        x: 26029
+        y: 0
+        width: 990
+        height: 1000
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zabijarka swin final_27
+      rect:
+        serializedVersion: 2
+        x: 27025
+        y: 0
+        width: 1006
+        height: 1000
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zabijarka swin final_28
+      rect:
+        serializedVersion: 2
+        x: 28041
+        y: 0
+        width: 976
+        height: 1000
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zabijarka swin final_29
+      rect:
+        serializedVersion: 2
+        x: 29027
+        y: 0
+        width: 994
+        height: 1000
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zabijarka swin final_30
+      rect:
+        serializedVersion: 2
+        x: 30031
+        y: 0
+        width: 992
+        height: 1000
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zabijarka swin final_31
+      rect:
+        serializedVersion: 2
+        x: 31031
+        y: 0
+        width: 994
+        height: 1000
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zabijarka swin final_32
+      rect:
+        serializedVersion: 2
+        x: 32029
+        y: 0
+        width: 1000
+        height: 1000
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zabijarka swin final_33
+      rect:
+        serializedVersion: 2
+        x: 33033
+        y: 0
+        width: 980
+        height: 1000
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zabijarka swin final_34
+      rect:
+        serializedVersion: 2
+        x: 34017
+        y: 0
+        width: 1015
+        height: 1000
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zabijarka swin final_35
+      rect:
+        serializedVersion: 2
+        x: 35039
+        y: 0
+        width: 990
+        height: 1000
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zabijarka swin final_36
+      rect:
+        serializedVersion: 2
+        x: 36036
+        y: 0
+        width: 984
+        height: 1000
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zabijarka swin final_37
+      rect:
+        serializedVersion: 2
+        x: 37027
+        y: 0
+        width: 990
+        height: 1000
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zabijarka swin final_38
+      rect:
+        serializedVersion: 2
+        x: 38024
+        y: 0
+        width: 991
+        height: 1000
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zabijarka swin final_39
+      rect:
+        serializedVersion: 2
+        x: 39022
+        y: 0
+        width: 997
+        height: 1000
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zabijarka swin final_40
+      rect:
+        serializedVersion: 2
+        x: 40030
+        y: 0
+        width: 987
+        height: 1000
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zabijarka swin final_41
+      rect:
+        serializedVersion: 2
+        x: 41027
+        y: 0
+        width: 991
+        height: 1000
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zabijarka swin final_42
+      rect:
+        serializedVersion: 2
+        x: 42025
+        y: 0
+        width: 994
+        height: 1000
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zabijarka swin final_43
+      rect:
+        serializedVersion: 2
+        x: 43026
+        y: 0
+        width: 1000
+        height: 1000
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zabijarka swin final_44
+      rect:
+        serializedVersion: 2
+        x: 44032
+        y: 0
+        width: 982
+        height: 1000
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zabijarka swin final_45
+      rect:
+        serializedVersion: 2
+        x: 45023
+        y: 0
+        width: 994
+        height: 1000
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zabijarka swin final_46
+      rect:
+        serializedVersion: 2
+        x: 46024
+        y: 0
+        width: 987
+        height: 1000
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zabijarka swin final_47
+      rect:
+        serializedVersion: 2
+        x: 47015
+        y: 0
+        width: 1009
+        height: 1000
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zabijarka swin final_48
+      rect:
+        serializedVersion: 2
+        x: 48031
+        y: 0
+        width: 991
+        height: 1000
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zabijarka swin final_49
+      rect:
+        serializedVersion: 2
+        x: 49031
+        y: 0
+        width: 994
+        height: 1000
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zabijarka swin final_50
+      rect:
+        serializedVersion: 2
+        x: 50031
+        y: 0
+        width: 982
+        height: 1000
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zabijarka swin final_51
+      rect:
+        serializedVersion: 2
+        x: 51025
+        y: 0
+        width: 1004
+        height: 1000
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zabijarka swin final_52
+      rect:
+        serializedVersion: 2
+        x: 52038
+        y: 0
+        width: 985
+        height: 1000
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zabijarka swin final_53
+      rect:
+        serializedVersion: 2
+        x: 53029
+        y: 0
+        width: 991
+        height: 1000
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zabijarka swin final_54
+      rect:
+        serializedVersion: 2
+        x: 54027
+        y: 0
+        width: 997
+        height: 1000
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zabijarka swin final_55
+      rect:
+        serializedVersion: 2
+        x: 55033
+        y: 0
+        width: 969
+        height: 1000
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zabijarka swin final_56
+      rect:
+        serializedVersion: 2
+        x: 56008
+        y: 0
+        width: 985
+        height: 1000
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zabijarka swin final_57
+      rect:
+        serializedVersion: 2
+        x: 56996
+        y: 0
+        width: 999
+        height: 1000
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zabijarka swin final_58
+      rect:
+        serializedVersion: 2
+        x: 57997
+        y: 0
+        width: 997
+        height: 1000
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zabijarka swin final_59
+      rect:
+        serializedVersion: 2
+        x: 58997
+        y: 0
+        width: 994
+        height: 1000
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zabijarka swin final_60
+      rect:
+        serializedVersion: 2
+        x: 59994
+        y: 0
+        width: 1028
+        height: 1000
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zabijarka swin final_61
+      rect:
+        serializedVersion: 2
+        x: 61029
+        y: 0
+        width: 1003
+        height: 1000
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zabijarka swin final_62
+      rect:
+        serializedVersion: 2
+        x: 62035
+        y: 0
+        width: 965
+        height: 1000
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
